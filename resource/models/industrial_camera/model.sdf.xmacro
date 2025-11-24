@@ -60,6 +60,6 @@
             </collision>
         </link>
         <xmacro_block name="industrial_camera" prefix="simple_" parent="base_link" pose="0 0 0.216 0 0 0" 
-                update_rate="30" horizontal_fov="1" width="640" height="480"/>
+                update_rate="90" horizontal_fov="1" width="640" height="480"/>
     </model>
 </sdf>
